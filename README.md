@@ -1,35 +1,23 @@
-# PEAR-AutoLayout-iOS
-[!] Unknown command: `create`
-Did you mean: update
+### PEAR-AutoLayout-iOS [![GitHub license](https://img.shields.io/badge/LICENSE-MIT%20LICENSE-blue.svg)](https://github.com/HirokiUmatani/PEAR-AutoLayout-iOS/LICENSE) [![CocoaPods](https://img.shields.io/badge/platform-ios-lightgrey.svg)](https://cocoapods.org/pods/PEAR-AutoLayout-iOS) [![CocoaPods](https://img.shields.io/cocoapods/v/PEAR-AutoLayout-iOS.svg)](https://cocoapods.org/pods/PEAR-AutoLayout-iOS)  
 
-Usage:
+====
+### Overview
+It is autoLayout library for ios.
 
-    $ pod COMMAND
+### Description
+This support is syncronous request and asynchronous request.  
+and request method get and post.
 
-      CocoaPods, the Cocoa library package manager.
+### Installation
+<code>
+pod 'PEAR-AutoLayout-iOS'
+</code>
 
-Commands:
+### Document
+[document library](http://cocoadocs.org/docsets/PEAR-AutoLayout-iOS)
 
-    + cache      Manipulate the CocoaPods cache
-    + init       Generate a Podfile for the current directory.
-    + install    Install project dependencies to Podfile.lock versions
-    + ipc        Inter-process communication
-    + lib        Develop pods
-    + list       List pods
-    + outdated   Show outdated project dependencies
-    + plugins    Show available CocoaPods plugins
-    + repo       Manage spec-repositories
-    + search     Search for pods.
-    + setup      Setup the CocoaPods environment
-    + spec       Manage pod specs
-    + trunk      Interact with the CocoaPods API (e.g. publishing new specs)
-    + try        Try a Pod!
-    + update     Update outdated project dependencies and create new Podfile.lock
+### Licence
+[MIT](https://github.com/HirokiUmatani/PEAR-AutoLayout-iOS/blob/master/LICENSE)
 
-Options:
-
-    --silent     Show nothing
-    --version    Show the version of the tool
-    --verbose    Show more debugging information
-    --no-ansi    Show output without ANSI codes
-    --help       Show help banner of specified command
+### Author
+[Hiroki Umatani](https://github.com/HirokiUmatani)
