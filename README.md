@@ -6,7 +6,7 @@ It is autoLayout library for ios.
 
 ### Demo
 	
-[![](http://img.youtube.com/vi/1pq_2FLCbow/0.jpg)](https://www.youtube.com/watch?v=1pq_2FLCbow)
+[![autolayout_demo](http://pear.chat/image/autolayout-demo-o.gif)]
 
 ### Installation
 <code>
