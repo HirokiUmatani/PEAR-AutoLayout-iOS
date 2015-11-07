@@ -4,9 +4,9 @@
 ### Overview
 It is autoLayout library for ios.
 
-### Description
-This support is syncronous request and asynchronous request.  
-and request method get and post.
+### Demo
+	
+[![](http://img.youtube.com/vi/1pq_2FLCbow/0.jpg)](https://www.youtube.com/watch?v=1pq_2FLCbow)
 
 ### Installation
 <code>
