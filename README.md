@@ -20,4 +20,7 @@ pod 'PEAR-AutoLayout-iOS'
 [MIT](https://github.com/HirokiUmatani/PEAR-AutoLayout-iOS/blob/master/LICENSE)
 
 ### Author
-[Hiroki Umatani](https://github.com/HirokiUmatani)
+[GitHub](https://github.com/HirokiUmatani)  
+[CocoaPod](https://cocoapods.org/owners/4170)  
+[FaceBook](https://www.facebook.com/hiroki.umatani)  
+[Twitter](https://twitter.com/pearchatHU)  
